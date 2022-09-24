@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "issuer": "Microsoft",
+        "issue_date": "2022-07-03T00:00:00.000Z",
+        "expiration_date": null,
+        "credential_id": "I339-1983",
+        "credential_url": "https://www.credly.com/badges/60b511ba-74f7-4a32-908c-6080ffc979ce",
+        "image": ""
+    },
+    {
+        "name": "Microsoft Certified: Power Platform Fundamentals",
+        "issuer": "Microsoft",
+        "issue_date": "2021-07-02T00:00:00.000Z",
+        "expiration_date": null,
+        "credential_id": "H887-4308",
+        "credential_url": "https://www.credly.com/badges/c9f96f12-5a4f-48ac-99f3-1e5bde952cbe",
+        "image": ""
+    },
+    {
+        "name": "Microsoft Certified: Azure AI Fundamentals",
+        "issuer": "Microsoft",
+        "issue_date": "2021-06-11T00:00:00.000Z",
+        "expiration_date": null,
+        "credential_id": "H851-2030",
+        "credential_url": "https://www.credly.com/badges/37ff5b92-fed4-4119-9087-23c29bbbe145",
+        "image": ""
+    },
+    {
+        "name": "Microsoft Certified: Azure Data Fundamentals",
+        "issuer": "Microsoft",
+        "issue_date": "2021-06-18T00:00:00.000Z",
+        "expiration_date": null,
+        "credential_id": "H861-3029",
+        "credential_url": "https://www.credly.com/badges/1d9d2c62-5834-4d8d-8460-54e45f80dc29",
+        "image": ""
+    },
+    {
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "issuer": "Microsoft",
+        "issue_date": "2021-06-05T00:00:00.000Z",
+        "expiration_date": null,
+        "credential_id": "H843-5222",
+        "credential_url": "https://www.credly.com/badges/4d558610-cb5f-4d72-b619-2197aa9d8ea8",
+        "image": ""
+    },
+    {
+        "name": "Microsoft Certified: Azure Developer Associate",
+        "issuer": "Microsoft",
+        "issue_date": "2022-07-25T00:00:00.000Z",
+        "expiration_date": "2025-07-25T00:00:00.000Z",
+        "credential_id": "I361-5627",
+        "credential_url": "https://www.credly.com/badges/fc063c5c-369c-4087-a69f-548ac9956bc1",
+        "image": ""
+    },
+    {
+        "name": "Microsoft 365 Certified: Teams Administrator Associate",
+        "issuer": "Microsoft",
+        "issue_date": "2022-07-10T00:00:00.000Z",
+        "expiration_date": "2025-07-10T00:00:00.000Z",
+        "credential_id": "I346-5889",
+        "credential_url": "https://www.credly.com/badges/5288b5f2-0b3c-4a5a-afae-0edca47108f6",
+        "image": ""
+    },
+    {
+        "name": "AWS Certified Cloud Practitioner",
+        "issuer": "Amazon Web Services (AWS)",
+        "issue_date": "2022-06-06T00:00:00.000Z",
+        "expiration_date": null,
+        "credential_id": "X7C3JV2BH2F41SCD",
+        "credential_url": "https://www.credly.com/badges/ba64a209-4434-46ea-a371-ff524bf00e8c",
+        "image": ""
+    }
+]
