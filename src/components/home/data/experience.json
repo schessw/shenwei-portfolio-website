@@ -6,7 +6,7 @@
         "type": "Full-time",
         "title": "Engineer, Big Data Analytics",
         "location": "Klang, Selangor, Malaysia",
-        "description": "aaa",
+        "description": "■ Developed a web-based declaration system for engineers to key in the root cause, corrective and preventive actions for root cause analysis of glove quality issue. Developed the system from frontend to backend, and successfully deployed the entire system to AWS. [Angular, NodeJS, MongoDB, Express.js]\n■ Developed a web analytics system to visualize data from manufacturing systems, which allows users to identify any potential issue arises during manufacturing process. Integrated Power BI Embedded Analytics for dashboards built by the team into the website. Adopted multi-cloud microservices approach to grab data from different sources (AWS/Azure). [React, NodeJS, MongoDB, SQL server, Express.js]\n■ Integrated federated Single Sign-On (SSO) authentication for web application developed using Azure AD through Amazon Cognito, so that only internal users registered in Azure AD can access the web application.\n■ Created multiple Microsoft Teams chatbots that can answer FAQs regarding production systems used in the company. Integrated with Salesforce to receive updates of incidents submitted, automatically sends the details of the incident to the users through Microsoft Teams. Data from chatbot and Salesforce are stored in a database to be visualized in Power BI for analysis purposes.\n■ Created multiple Microsoft Teams chatbots to send scheduled messages that contains data collected from various systems in production line to engineers through different channels in Microsoft Teams. Effectively notify the engineers when abnormality is detected during manufacturing process, which allows them to rectify the issues immediately.\n■ In charge of tasks related to cloud computing platform (Azure and AWS), including but not limited to architecture design and review, knowledge sharing on topics related to cloud, deployment of application to cloud, preparing documentation on projects deployed to cloud, etc.\n■ Created multiple ETL/ELT pipelines in Microsoft Azure to ingest data from on-premises SQL server to Azure Synapse Analytics serverless SQL pool. Data is processed using Azure Data Factory/Azure Functions and stored into Azure Data Lake Storage Gen 2. \n■ Build analytics dashboards to visualize data after data engineering process using Power BI.\n■ Automate data reporting through Microsoft Teams/Email using serverless functions. [Azure Logic App, Azure Functions, Microsoft Teams Apps]\n",
         "projects": [
             {
                 "name": "QREX Root Cause CAPA Declaration System",
@@ -14,7 +14,8 @@
                 "duration": "",
                 "skills": ["React.js", "NodeJS", ""]
             }
-        ]
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Top_Glove_logo.png"
     },
     {
         "company": "Tapway Sdn. Bhd.",
@@ -23,15 +24,17 @@
         "type": "Internship",
         "title": "Python / Artificial Intelligence Intern",
         "location": "Petaling Jaya, Selangor, Malaysia",
-        "description": "bbb"
+        "description": "■ Configured a router type to support the company’s Guest Wi-Fi System.\n■ Set up a server to run face recognition service for a security camera. \n■ Created an API documentation for a face recognition camera using Postman. \n■ Assisted in migration of database records from MySQL to AWS DynamoDB.\n■ Developed a prototype application to track the headcount for each table in a food court or restaurant through CCTV footage. Created using Python.\n■ Perform ad-hoc tasks as assigned by supervisor",
+        "image": "https://s3.ap-southeast-1.amazonaws.com/resources.wobbjobs.com/uploads/company-logo/company_logo_image/f4d28fb1-c9fa-47d6-9a82-cc648965326f/tapway-1560319725.png"
     },
     {
-        "company": " Crowdsourcing Asia Sdn. Bhd. ",
+        "company": "Crowdsourcing Asia Sdn. Bhd.",
         "start_date": "2015-07-01T00:00:00.000Z",
         "end_date": "2017-10-31T00:00:00.000Z",
         "type": "Part-time",
         "title": "Digital Worker",
         "location": "Remote",
-        "description": "ccc"
+        "description": "As a part of the online workforce, I was involved in several digital micro-tasks such as: \n■ Sentiment Analysis\n■ Image Tagging\n■ Photo Moderation\n■ Invoice Data Extraction\n■ Video Transcription and Translation (Mandarin ⇄ English)\n■ Financial Transaction Information Extraction (IPO, M&A) \n■ Lead Generation",
+        "image": "data:image/png;base64,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"
     }
 ]

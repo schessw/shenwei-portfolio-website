@@ -6,7 +6,7 @@
         "expiration_date": null,
         "credential_id": "I339-1983",
         "credential_url": "https://www.credly.com/badges/60b511ba-74f7-4a32-908c-6080ffc979ce",
-        "image": ""
+        "image": "https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"
     },
     {
         "name": "Microsoft Certified: Power Platform Fundamentals",
@@ -15,7 +15,7 @@
         "expiration_date": null,
         "credential_id": "H887-4308",
         "credential_url": "https://www.credly.com/badges/c9f96f12-5a4f-48ac-99f3-1e5bde952cbe",
-        "image": ""
+        "image": "https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"
     },
     {
         "name": "Microsoft Certified: Azure AI Fundamentals",
@@ -24,7 +24,7 @@
         "expiration_date": null,
         "credential_id": "H851-2030",
         "credential_url": "https://www.credly.com/badges/37ff5b92-fed4-4119-9087-23c29bbbe145",
-        "image": ""
+        "image": "https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
     },
     {
         "name": "Microsoft Certified: Azure Data Fundamentals",
@@ -33,7 +33,7 @@
         "expiration_date": null,
         "credential_id": "H861-3029",
         "credential_url": "https://www.credly.com/badges/1d9d2c62-5834-4d8d-8460-54e45f80dc29",
-        "image": ""
+        "image": "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
     },
     {
         "name": "Microsoft Certified: Azure Fundamentals",
@@ -42,7 +42,7 @@
         "expiration_date": null,
         "credential_id": "H843-5222",
         "credential_url": "https://www.credly.com/badges/4d558610-cb5f-4d72-b619-2197aa9d8ea8",
-        "image": ""
+        "image": "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
     },
     {
         "name": "Microsoft Certified: Azure Developer Associate",
@@ -51,7 +51,7 @@
         "expiration_date": "2025-07-25T00:00:00.000Z",
         "credential_id": "I361-5627",
         "credential_url": "https://www.credly.com/badges/fc063c5c-369c-4087-a69f-548ac9956bc1",
-        "image": ""
+        "image": "https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"
     },
     {
         "name": "Microsoft 365 Certified: Teams Administrator Associate",
@@ -60,7 +60,7 @@
         "expiration_date": "2025-07-10T00:00:00.000Z",
         "credential_id": "I346-5889",
         "credential_url": "https://www.credly.com/badges/5288b5f2-0b3c-4a5a-afae-0edca47108f6",
-        "image": ""
+        "image": "https://images.credly.com/size/340x340/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png"
     },
     {
         "name": "AWS Certified Cloud Practitioner",
@@ -69,6 +69,6 @@
         "expiration_date": null,
         "credential_id": "X7C3JV2BH2F41SCD",
         "credential_url": "https://www.credly.com/badges/ba64a209-4434-46ea-a371-ff524bf00e8c",
-        "image": ""
+        "image": "https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
     }
 ]

@@ -5,7 +5,7 @@
         "start_date": "2017-07-01T00:00:00.000Z",
         "end_date": "2020-02-28T00:00:00.000Z",
         "grade": "CGPA 4.0 - First Class Honours",
-        "description": "",
+        "description": "a",
         "subjects": [
             {
                 "name": "",
@@ -205,7 +205,8 @@
                 "course_structure_url": "",
                 "grade": ""
             }
-        ]
+        ],
+        "image": "https://www.mmu.edu.my/wp-content/themes/mmu2018/assets/images/logo-mmu.png"
     },
     {
         "name": "Taylor's College, Subang Jaya",
@@ -213,7 +214,7 @@
         "start_date": "2015-07-01T00:00:00.000Z",
         "end_date": "2016-12-31T00:00:00.000Z",
         "grade": "4A*",
-        "description": "",
+        "description": "a",
         "subjects": [
             {
                 "name": "",
@@ -239,7 +240,8 @@
                 "course_structure_url": "",
                 "grade": ""
             }
-        ]
+        ],
+        "image": "https://eduadvisor.my/wp-content/uploads/2014/12/Logo-Taylors-College.png"
     },
     {
         "name": "SMK Seafield",
@@ -247,7 +249,7 @@
         "start_date": "2010-01-01T00:00:00.000Z",
         "end_date": "2014-12-31T00:00:00.000Z",
         "grade": "9A+, 1A",
-        "description": "",
+        "description": "a",
         "subjects": [
             {
                 "name": "",
@@ -309,6 +311,7 @@
                 "course_structure_url": "",
                 "grade": ""
             }
-        ]
+        ],
+        "image": "https://images-cdn.e-sentral.com/elib/smkseafield_logo.jpg"
     }
 ]
