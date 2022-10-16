@@ -1,0 +1,17 @@
+[
+    {
+        "name": "The Hungry Kitten",
+        "description": "The Hungry Kitten - Created using C++ and Box2D",
+        "link": "https://www.youtube.com/embed/m8lRPhjR2Qw"
+    },
+    {
+        "name": "Zombie Escape",
+        "description": "Zombie Escape - Created using Unreal Engine",
+        "link": "https://www.youtube.com/embed/tFh1loTRETg"
+    },
+    {
+        "name": "Automatic Mark Detection and Logging System",
+        "description": "Final Year Project - Automatic Mark Detection and Logging System",
+        "link": "https://www.youtube.com/embed/BzFMbwKNQtc"
+    }
+]

@@ -4,7 +4,7 @@
         "qualification": "Bachelor of Computer Science (Hons.) - Software Engineering",
         "start_date": "2017-07-01T00:00:00.000Z",
         "end_date": "2020-02-28T00:00:00.000Z",
-        "grade": "CGPA 4.0 - First Class Honours",
+        "grade": "CGPA 4.0",
         "description": "a",
         "subjects": [
             {
@@ -206,7 +206,7 @@
                 "grade": ""
             }
         ],
-        "image": "https://www.mmu.edu.my/wp-content/themes/mmu2018/assets/images/logo-mmu.png"
+        "image": "https://s3.ap-southeast-1.amazonaws.com/yoongshenwei.work/assets/mmu.png"
     },
     {
         "name": "Taylor's College, Subang Jaya",
@@ -241,7 +241,7 @@
                 "grade": ""
             }
         ],
-        "image": "https://eduadvisor.my/wp-content/uploads/2014/12/Logo-Taylors-College.png"
+        "image": "https://s3.ap-southeast-1.amazonaws.com/yoongshenwei.work/assets/taylorscollege.png"
     },
     {
         "name": "SMK Seafield",
@@ -312,6 +312,6 @@
                 "grade": ""
             }
         ],
-        "image": "https://images-cdn.e-sentral.com/elib/smkseafield_logo.jpg"
+        "image": "https://s3.ap-southeast-1.amazonaws.com/yoongshenwei.work/assets/smkseafield.png"
     }
 ]
