@@ -21,17 +21,14 @@ function Home() {
             <a href="#experience">
                 <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Work Experience</button>
             </a>
-            <a href="#contact">
-                <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Contact</button>
-            </a>
             <a href="#education">
                 <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Education</button>
             </a>
             <a href="#certification">
                 <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Certification</button>
             </a>
-            <a href="#skill">
-                <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Skill</button>
+            <a href="#project">
+                <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Project</button>
             </a>
             <a href="#contact">
                 <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Contact Me</button>
