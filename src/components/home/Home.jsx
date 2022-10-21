@@ -30,9 +30,6 @@ function Home() {
             <a href="#project">
                 <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Project</button>
             </a>
-            <a href="#contact">
-                <button className='px-5 py-2 hover:bg-gray-100 mx-1'>Contact Me</button>
-            </a>
         </div>
 
         <div className='grid grid-cols-1' id='aboutme'>
