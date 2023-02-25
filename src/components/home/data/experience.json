@@ -1,20 +1,22 @@
 [
     {
-        "company": "Top Glove",
-        "start_date": "2022-06-22T00:00:00.000Z",
+        "company": "Maybank",
+        "start_date": "2023-02-13T00:00:00.000Z",
         "end_date": null,
+        "type": "Full-time",
+        "title": "Backend Developer, Cards Digital Innovation",
+        "location": "Kuala Lumpur, Malaysia",
+        "description": "",
+        "image": "https://s3.ap-southeast-1.amazonaws.com/yoongshenwei.work/assets/maybank.png"
+    },
+    {
+        "company": "Top Glove",
+        "start_date": "2020-06-22T00:00:00.000Z",
+        "end_date": "2023-02-10T00:00:00.000Z",
         "type": "Full-time",
         "title": "Engineer, Big Data Analytics",
         "location": "Klang, Selangor, Malaysia",
         "description": "■ Developed a web-based declaration system for engineers to key in the root cause, corrective and preventive actions for root cause analysis of glove quality issue. Developed the system from frontend to backend, and successfully deployed the entire system to AWS. [Angular, NodeJS, MongoDB, Express.js]\n■ Developed a web analytics system to visualize data from manufacturing systems, which allows users to identify any potential issue arises during manufacturing process. Integrated Power BI Embedded Analytics for dashboards built by the team into the website. Adopted multi-cloud microservices approach to grab data from different sources (AWS/Azure). [React, NodeJS, MongoDB, SQL server, Express.js]\n■ Integrated federated Single Sign-On (SSO) authentication for web application developed using Azure AD through Amazon Cognito, so that only internal users registered in Azure AD can access the web application.\n■ Created multiple Microsoft Teams chatbots that can answer FAQs regarding production systems used in the company. Integrated with Salesforce to receive updates of incidents submitted, automatically sends the details of the incident to the users through Microsoft Teams. Data from chatbot and Salesforce are stored in a database to be visualized in Power BI for analysis purposes.\n■ Created multiple Microsoft Teams chatbots to send scheduled messages that contains data collected from various systems in production line to engineers through different channels in Microsoft Teams. Effectively notify the engineers when abnormality is detected during manufacturing process, which allows them to rectify the issues immediately.\n■ In charge of tasks related to cloud computing platform (Azure and AWS), including but not limited to architecture design and review, knowledge sharing on topics related to cloud, deployment of application to cloud, preparing documentation on projects deployed to cloud, etc.\n■ Created multiple ETL/ELT pipelines in Microsoft Azure to ingest data from on-premises SQL server to Azure Synapse Analytics serverless SQL pool. Data is processed using Azure Data Factory/Azure Functions and stored into Azure Data Lake Storage Gen 2. \n■ Build analytics dashboards to visualize data after data engineering process using Power BI.\n■ Automate data reporting through Microsoft Teams/Email using serverless functions. [Azure Logic App, Azure Functions, Microsoft Teams Apps]\n",
-        "projects": [
-            {
-                "name": "QREX Root Cause CAPA Declaration System",
-                "description": "aaaa",
-                "duration": "",
-                "skills": ["React.js", "NodeJS", ""]
-            }
-        ],
         "image": "https://s3.ap-southeast-1.amazonaws.com/yoongshenwei.work/assets/topglove.png"
     },
     {

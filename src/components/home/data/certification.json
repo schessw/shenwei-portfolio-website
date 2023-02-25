@@ -63,6 +63,15 @@
         "image": "https://images.credly.com/size/340x340/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png"
     },
     {
+        "name": "Microsoft Certified: DevOps Engineer Expert",
+        "issuer": "Microsoft",
+        "issue_date": "2023-02-15T00:00:00.000Z",
+        "expiration_date": "2024-02-15T00:00:00.000Z",
+        "credential_id": "I612-1198",
+        "credential_url": "https://www.credly.com/badges/5363fabc-a050-4c34-8eda-d1939b765b93",
+        "image": "https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
+    },
+    {
         "name": "AWS Certified Cloud Practitioner",
         "issuer": "Amazon Web Services (AWS)",
         "issue_date": "2022-06-06T00:00:00.000Z",
